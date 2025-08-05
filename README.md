@@ -1,5 +1,5 @@
 # Course Management System – Java Desktop Application
-**Course Management System** is a desktop application developed using Java and MySQL to streamline academic operations such as course registration, user management, and academic data handling. The project demonstrates strong object-oriented programming (OOP) practices including inheritance, encapsulation, and modular design to ensure maintainability and scalability.
+**Course Management System** is a desktop application developed using Java and MySQL to simplify academic operations such as course registration, user management, and academic data handling. The project demonstrates strong object-oriented programming (OOP) practices including inheritance, encapsulation, and modular design to ensure maintainability and scalability.
 
 This system features role-based access and secure, user-specific dashboards for Admins, Teachers, and Students.
 
